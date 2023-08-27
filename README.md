@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Radomir</h1>
-<h3 align="center">I am a computer science student at the University of Economics in Krakow, and I am passionate about topics from the areas of DevOps and Cybersecurity.</h3>
+<h3 align="center">I am an enthusiastic freelance web developer and a computer science student at the University of Economics in Krakow. Moreover, my passion extends to the realms of DevOps and Cybersecurity, where I explore and delve into intriguing topics</h3>
 
 - 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
 
 - 🌱 I’m currently learning **creating CI/CD pipelines**, while consistently honing my programming skills, with a particular focus on refining my **testing abilities**
 
-- 👨‍💻 Currently, all my projects can be found at [https://github.com/radzek15](https://github.com/radzek15), but I have exciting plans to create my very own website in the near future.
+- 👨‍💻 All my information can be found on my personal website: **http://radomirpiatkowski.com**
 
 - 📫 Reach me through email: **radzek15@gmail.com**
 
