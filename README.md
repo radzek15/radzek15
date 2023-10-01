@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radomir</h1>
-<h3 align="center">I am an enthusiastic freelance web developer and a computer science student at the University of Economics in Krakow. Moreover, my passion extends to the realms of DevOps and Cybersecurity, where I explore and delve into intriguing topics</h3>
+<h3 align="center">I am an enthusiastic freelance web developer and a computer science student at the University of Economics in Krakow. Moreover, my passion extends to the realms of DevOps and Machine Learning, where I explore and delve into intriguing topics</h3>
 
 - 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
 
