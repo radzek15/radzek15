@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
 
-- 🌱 I’m currently learning **creating CI/CD pipelines**, while consistently honing my programming skills, with a particular focus on refining my **testing abilities**
+- 🌱 I’m currently learning **React.js**, while consistently honing my programming skills, with a particular focus on refining my **testing abilities**
 
 - 👨‍💻 All my information can be found on my personal website: **http://radomirpiatkowski.com**
 
