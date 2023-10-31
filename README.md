@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
 
-- 🌱 I’m currently learning **React.js**, while consistently honing my programming skills, with a particular focus on refining my **testing abilities**
+- 🌱 I’m currently learning **Kubernetes**, while consistently honing my programming skills, with a particular focus on refining my **python testing abilities**
 
 - 👨‍💻 All my information can be found on my personal website: **http://radomirpiatkowski.com**
 
@@ -21,6 +21,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3FQY7fys9vCTen3dZawMED-FJslkuyyjURtxN-B_K3o2Zar3itk82a21xz-MbYyss2As&usqp=CAU" alt="bash" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
