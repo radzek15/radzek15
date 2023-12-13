@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
 
-- 🌱 I’m currently learning about **AWS Cloud Services**, while consistently honing my programming skills, with a particular focus on refining my **python testing abilities**
+- 🌱 I’m currently learning about **AWS Cloud Services**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
 
 - 👨‍💻 All my information can be found on my personal website: **http://radomirpiatkowski.com**
 
