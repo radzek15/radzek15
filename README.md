@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **AWS Cloud Services**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
 
-- 👨‍💻 All my information can be found on my personal website: ~~**http://radomirpiatkowski.com**~~
+- 👨‍💻 ~~All my information can be found on my personal website: **http://radomirpiatkowski.com**~~
 
 - 📫 Reach me through email: **radzek15@gmail.com**
 
