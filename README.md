@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning about **Penetration Testing**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1192621" style='border:none;'></iframe>
+- 📫 Reach me through email: **radzek15@gmail.com** OR THM
 
-- 📫 Reach me through email: **radzek15@gmail.com**
+<img src="https://tryhackme-badges.s3.amazonaws.com/radek15.png" alt="Your Image Badge" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
