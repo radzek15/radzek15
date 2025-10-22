@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radomir</h1>
-<h3 align="center">I am an enthusiastic freelance web developer and a computer science student at the University of Economics in Krakow. Moreover, my passion extends to the realms of DevOps and Machine Learning, where I explore and delve into intriguing topics</h3>
+<h3 align="center">I am a programist and security enthusiast. Moreover, my passion extends to the realms of DevOps and Machine Learning, where I explore and delve into intriguing topics</h3>
 
-- 🔭 I’m currently working on Django project **CodeGen**. I am very fascinated by this project and have very high hopes for it.
+- 🌱 I’m currently learning about **Penetration Testing**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
 
-- 🌱 I’m currently learning about **CI/CD**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
-
-- 👨‍💻 ~~All my information can be found on my personal website: **http://radomirpiatkowski.com**~~
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1192621" style='border:none;'></iframe>
 
 - 📫 Reach me through email: **radzek15@gmail.com**
 
