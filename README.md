@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radomir</h1>
-<h3 align="center">I am a programist and security enthusiast. Moreover, my passion extends to the realms of DevOps and Machine Learning, where I explore and delve into intriguing topics</h3>
-
-- 🌱 I’m currently learning about **Penetration Testing**, while consistently honing my programming skills, with a particular focus on refining my **python coding abilities**
-
-- 📫 Reach me through email: **radzek15@gmail.com** OR THM
+<h3 align="center">I am a programist and security enthusiast. Moreover, my passion extends to the realms of DevOps and Machine Learning</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/radek15.png" alt="Your Image Badge" />
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/radomir-pi%c4%85tkowski-9166a5241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radomir-pi%c4%85tkowski-9166a5241/" height="30" width="40" /></a>
 <a href="https://instagram.com/piatek1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piatek1345" height="30" width="40" /></a>
