@@ -3,6 +3,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/radek15.png" alt="Your Image Badge" />
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/radomir-pi%c4%85tkowski-9166a5241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radomir-pi%c4%85tkowski-9166a5241/" height="30" width="40" /></a>
 <a href="https://instagram.com/piatek1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piatek1345" height="30" width="40" /></a>
